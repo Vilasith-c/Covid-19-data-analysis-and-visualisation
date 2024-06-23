@@ -1,5 +1,8 @@
 # Covid-19-data-analysis-and-visualisation
-This is a basic python project using python libraries (Pandas , Plotly.express)
+#This is a basic python project using #python libraries (Pandas , Plotly.express) 
+
+#THIS THE CODE#
+
 import pandas as pd
 import plotly.express as px
 
